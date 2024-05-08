@@ -1,5 +1,7 @@
 # goclack
-An silly input noisemaker written in Go, using [faiface/beep](https://github.com/faiface/beep) for audio output
+A silly input noisemaker written in Go, using [faiface/beep](https://github.com/faiface/beep) for audio output
+
+Written with `Go v1.20.5`
 
 Goclack hooks into low level input events and uses them to trigger sounds. Current only Windows events are implemented, but Linux and MacOS support is planned.
 
