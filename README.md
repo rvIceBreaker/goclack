@@ -41,7 +41,7 @@ events:
 
 When an input event matches a group, a sound from that group is selected and played at random
 
-#### Keyset Packs
+### Keyset Packs
 
 KeySets can be packed into .zip files to easily bundle together the assets and configuration for a KeySet.
 
