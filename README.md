@@ -52,14 +52,14 @@ KeySet packs do not have a specific structure other than a `keyset.yaml` must ex
 The following features are planned
 
 * Cross-platform support
-* * Linux and MacOS input events
+  * Linux and MacOS input events
 * A TUI graphical interface
-* * Possibily using [bubbletea](https://github.com/charmbracelet/bubbletea)
+  * Possibily using [bubbletea](https://github.com/charmbracelet/bubbletea)
 * Expanded input event handling
-* * Mouse input events
-* * * Movement
-* * * Buttons
-* * * Scrolling
+  * Mouse input events
+    * Movement
+    * Buttons
+    * Scrolling
 
 ## Known issues
 
